@@ -1,0 +1,19 @@
+{
+  "name": "find-my-lawyer-be",
+  "version": "1.0.0",
+  "description": "back-end services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ms555-app/find-my-lawyer-be.git"
+  },
+  "author": "ms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ms555-app/find-my-lawyer-be/issues"
+  },
+  "homepage": "https://github.com/ms555-app/find-my-lawyer-be#readme"
+}
